@@ -30,13 +30,7 @@ React Code Playground is an interactive coding platform that allows users to wri
 2. **Install Dependencies:**
 
 3. **Start the Development Servers:**
-- Frontend:
   ```
-  npm start
-  ```
-- Backend:
-  ```
-  cd server/
   npm install
   npm start
   ```
