@@ -18,13 +18,13 @@ html {
 }
 
 .code-editor {
-  height: 33.34%;
+  height: 33.334%;
   overflow: hidden;
   position: relative;
 }
 
 .editor-header {
-  height: 30px;
+  height: 31px;
   content: attr(title);
   display: flex;
   align-items: center;
